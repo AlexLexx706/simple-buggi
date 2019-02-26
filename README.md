@@ -279,6 +279,15 @@ description: Проект электрический автомобиль
       <td style="text-align:left">?</td>
       <td style="text-align:left"></td>
     </tr>
+    <tr>
+      <td style="text-align:left">планетарная втулку Shimano Nexus 8</td>
+      <td style="text-align:left">Можно использовать в качестве коробки передач</td>
+      <td style="text-align:left">
+        <img src=".gitbook/assets/shimano.jpeg" alt/>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>## Чертежи:
 
