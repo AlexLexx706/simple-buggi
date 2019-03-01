@@ -18,6 +18,7 @@
 14. [Таблица радиальных подшипников](http://podshipnika.ru/tablica-razmerov-sharikovyh-podshipnikov/#4) 
 15. [Госты на подшипники](https://www.pdsar.biz/documents) \(не смотрел ещё\)
 16. [Расчёт вала на изгиб](https://prostobuild.ru/onlainraschet/143-raschet-balki-na-progib.html), для 25 вала при нагрузки 100 кг на одно колесо, прогиб вала максимум 2 мм.
+17. [переделка авто генератора в BLDC двигатель, форум](http://motorboard.ru/forum/index.php?/topic/2182-%D1%81%D0%B0%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-bldc-%D0%BC%D0%BE%D1%82%D0%BE%D1%80-%D0%B8%D0%B7-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/)
 
 ## Инструменты:
 
