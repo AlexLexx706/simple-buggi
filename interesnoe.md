@@ -10,15 +10,16 @@
 6. Статья, [расчёт мощности двигателя](https://wiki.zr.ru/Мощность_момент), более информативная
 7. [Чертежи ступицы ваз 2101](https://www.drive2.ru/c/2651431/)
 8. [Принцип аккермана](http://www.rc-auto.ru/articles_models/id/445/), не дочитал до конца
-9. Видео курс [по допускам и посадкам](https://www.youtube.com/watch?v=lPrxrmCvDis&feature=youtu.be)
-10. [Книга Специальные главы теории автомобиля](https://books.google.ru/books?id=DKuERElgxd4C&pg=PA31&lpg=PA31&dq=сила+сцепления+колёс+с+грунтом&source=bl&ots=qYIHp314ej&sig=ACfU3U3OWoljx35koVpznL57TUV3empZZQ&hl=en&sa=X&ved=2ahUKEwixm93285LgAhVKhaYKHcU-DxEQ6AEwDHoECAMQAQ#v=onepage&q=сила%20сцепления%20колёс%20с%20грунтом&f=false), думаю есть тут, что то полезное, я нашёл её запросу [сила сцепления колёс с грунтом](https://www.google.com/search?q=сила+сцепления+колёс+с+грунтом)
-11. Ещё на тему [автомобилей ститьи](https://wiki.zr.ru/Как_движется_автомобиль)
-12. [Статья](https://ammo1.livejournal.com/585236.html) про параметры аккумуляторов Ампер/часы  и Ват/часы
-13. Про то как [посчитать](https://goldenmotor.ru/electromobil-svoimi-rukami/) электромобиль 
-14. [Таблица радиальных подшипников](http://podshipnika.ru/tablica-razmerov-sharikovyh-podshipnikov/#4) 
-15. [Госты на подшипники](https://www.pdsar.biz/documents) \(не смотрел ещё\)
-16. [Расчёт вала на изгиб](https://prostobuild.ru/onlainraschet/143-raschet-balki-na-progib.html), для 25 вала при нагрузки 100 кг на одно колесо, прогиб вала максимум 2 мм.
-17. [переделка авто генератора в BLDC двигатель, форум](http://motorboard.ru/forum/index.php?/topic/2182-%D1%81%D0%B0%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-bldc-%D0%BC%D0%BE%D1%82%D0%BE%D1%80-%D0%B8%D0%B7-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/)
+9. [Картинки по принципу аккремана](https://www.drive2.ru/b/1008700/)
+10. Видео курс [по допускам и посадкам](https://www.youtube.com/watch?v=lPrxrmCvDis&feature=youtu.be)
+11. [Книга Специальные главы теории автомобиля](https://books.google.ru/books?id=DKuERElgxd4C&pg=PA31&lpg=PA31&dq=сила+сцепления+колёс+с+грунтом&source=bl&ots=qYIHp314ej&sig=ACfU3U3OWoljx35koVpznL57TUV3empZZQ&hl=en&sa=X&ved=2ahUKEwixm93285LgAhVKhaYKHcU-DxEQ6AEwDHoECAMQAQ#v=onepage&q=сила%20сцепления%20колёс%20с%20грунтом&f=false), думаю есть тут, что то полезное, я нашёл её запросу [сила сцепления колёс с грунтом](https://www.google.com/search?q=сила+сцепления+колёс+с+грунтом)
+12. Ещё на тему [автомобилей ститьи](https://wiki.zr.ru/Как_движется_автомобиль)
+13. [Статья](https://ammo1.livejournal.com/585236.html) про параметры аккумуляторов Ампер/часы  и Ват/часы
+14. Про то как [посчитать](https://goldenmotor.ru/electromobil-svoimi-rukami/) электромобиль 
+15. [Таблица радиальных подшипников](http://podshipnika.ru/tablica-razmerov-sharikovyh-podshipnikov/#4) 
+16. [Госты на подшипники](https://www.pdsar.biz/documents) \(не смотрел ещё\)
+17. [Расчёт вала на изгиб](https://prostobuild.ru/onlainraschet/143-raschet-balki-na-progib.html), для 25 вала при нагрузки 100 кг на одно колесо, прогиб вала максимум 2 мм.
+18. [переделка авто генератора в BLDC двигатель, форум](http://motorboard.ru/forum/index.php?/topic/2182-%D1%81%D0%B0%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-bldc-%D0%BC%D0%BE%D1%82%D0%BE%D1%80-%D0%B8%D0%B7-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/)
 
 ## Инструменты:
 
