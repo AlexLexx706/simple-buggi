@@ -348,7 +348,8 @@ description: Проект электрический автомобиль
 * [https://www.youtube.com/watch?v=wcFaIFFbP0g](https://www.youtube.com/watch?v=wcFaIFFbP0g)
 * [Переделка авто генератора в двигатель, очень воодушествляет, если будет ЖЖ с доставкой двигателя из Китая ](https://www.youtube.com/watch?v=y3qCx2JCIeo)
 * [Ещё пример переделки генератора с двигатель](https://www.youtube.com/watch?time_continue=136&v=wdfFi9iH7es)
-* [На первый взгляд хороший форум о генераторах в качестве моторов](http://motorboard.ru/forum/index.php?/topic/2182-%D1%81%D0%B0%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-bldc-%D0%BC%D0%BE%D1%82%D0%BE%D1%80-%D0%B8%D0%B7-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/)
+
+
 
 
 
