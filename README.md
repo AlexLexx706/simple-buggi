@@ -155,6 +155,14 @@ description: Проект электрический автомобиль
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left"><a href="https://www.delta-battery.ru/catalog/start/?display=table&amp;set_filter=y&amp;MSHOP_SMART_FILTER_42_4196041389=Y&amp;MSHOP_SMART_FILTER_43_MIN=10">&#x442;&#x443;&#x442; &#x433;&#x435;&#x43B;&#x438;&#x435;&#x432;&#x44B;&#x435; &#x431;&#x430;&#x442;&#x430;&#x440;&#x435;&#x438;</a>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left"><a href="https://dvizhcom.ru/catalogs/82832/?utm_source=yandex-market&amp;utm_medium=cpc&amp;utm_campaign=yandex-market&amp;utm_term=82832&amp;_openstat=bWFya2V0LnlhbmRleC5ydTvQqNCw0YDQvdC40YAg0LrQsNGA0LTQsNC90L3Ri9C5INGA0YPQu9C10LLQvtCz0L4g0LLQsNC70LAg0KPQkNCXINCz0YDRg9C30L7QstC-0Lkg0YEg0JPQo9CgICjQkNCU0KEpO1dDajN3WXp6NV9aU09DUVE5TnBKb2c7&amp;ymclid=15487638018637396047800028">&#x428;&#x430;&#x440;&#x43D;&#x438;&#x440; &#x43A;&#x430;&#x440;&#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x439; &#x440;&#x443;&#x43B;&#x435;&#x432;&#x43E;&#x433;&#x43E;</a>
       </td>
       <td style="text-align:left">&#x412;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E; &#x438;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x43E;&#x432;&#x430;&#x442;&#x44C;
