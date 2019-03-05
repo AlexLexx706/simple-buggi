@@ -151,7 +151,7 @@ description: Проект электрический автомобиль
       <td style="text-align:left">
         <img src=".gitbook/assets/akkumulyator.jpg" alt/>
       </td>
-      <td style="text-align:left">4</td>
+      <td style="text-align:left">5</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
