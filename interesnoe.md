@@ -22,6 +22,7 @@
 18. [переделка авто генератора в BLDC двигатель, форум](http://motorboard.ru/forum/index.php?/topic/2182-%D1%81%D0%B0%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-bldc-%D0%BC%D0%BE%D1%82%D0%BE%D1%80-%D0%B8%D0%B7-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/)
 19. [как работает генератор переменного тока в машине](http://mlab.org.ua/articles/electric/59-electric-generator.html)
 20. [как мерить механическую мощность двигателя](https://hackaday.com/?s=torque)
+21. [проект по измерению механической мощности двигателя](http://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2017/apg67_kss223_ejy25/kss223_apg67_ejy25/kss223_apg67_ejy25/index.htm)
 
 ## Инструменты:
 
