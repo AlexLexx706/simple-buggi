@@ -23,7 +23,7 @@
 19. [как работает генератор переменного тока в машине](http://mlab.org.ua/articles/electric/59-electric-generator.html)
 20. [как мерить механическую мощность двигателя](https://hackaday.com/?s=torque)
 21. [проект по измерению механической мощности двигателя](http://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2017/apg67_kss223_ejy25/kss223_apg67_ejy25/kss223_apg67_ejy25/index.htm)
-22. [угол кастера в поворотном узле колеса](https://www.drive2.ru/b/1984220/)
+22. \*\*\*\*[**угол продольного наклона оси поворота колеса автомобиля**](https://www.drive2.ru/b/1984220/)\*\*\*\*
 
 ## Инструменты:
 
