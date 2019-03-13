@@ -7,4 +7,7 @@
 * [коронки по металлу на дрель](https://www.youtube.com/watch?v=XZfoZZPSOJ4&t=36s) 
 * [подборка видео от одного индуса по электрификации машин](https://www.youtube.com/channel/UCrpbGiOxH_05q9Ec5Rj3zOA/videos)
 * [о подвеске автомобиля](https://www.youtube.com/watch?v=VdpZZ_50cvg&t=629s) 
+* [принцип работы асинхронного двигателя](https://www.youtube.com/watch?v=1XxaOVESscg)
+
+
 
