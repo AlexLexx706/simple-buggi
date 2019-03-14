@@ -29,7 +29,8 @@ description: Проект электрический автомобиль
 | [Вольтметр](https://ru.aliexpress.com/item/Mini-0-36-inch-DC-0-100v-3-bits-Digital-Red-LED-Display-Panel-Voltage-Meter/32952874699.html?spm=a2g0v.10010108.1000016%2FB.1.4c19143a6i1O56&isOrigTitle=true) | Для показа текущего заряда батарей | ![](.gitbook/assets/voltmetr.jpg) | 2 | 111,68 | 0 |
 | [Цепь T8F, шаг 8 мм, 129 звеньев](https://www.aliexpress.com/snapshot/0.html?orderId=703680554219661) | Будет передавать момент от звездочки мотора на звёздочку вала колёс | ![](.gitbook/assets/cep.jpg)![](.gitbook/assets/tf8-chain-spec.png) | 1 | 702,46 | 1 |
 | [Приводная звездочка T8F 64 зуба](https://www.aliexpress.com/snapshot/0.html?orderId=703650765399661) | Передаёт момент на вал колёс | ![](.gitbook/assets/gear_64.jpg) | 1 | 778,98 | 1 |
-| [Тормозной комплект: диск, суппорт, шланг, цилиндр, бачок](https://ru.aliexpress.com/item/200CC-250CC-ATV-Quad-Foot-brake-Hydraulic-Caliper-Brake-Disk-Disc-Assy-200cc-250cc-ATV-Quad/32813148385.html?spm=a2g0s.9042311.0.0.274233edrPo7SP) | Тормозной диск устанавливается на вал задних колёс, суппорт крепиться в плоскости диска на раме, к цилиндру подводится привод педали | ![](.gitbook/assets/tormoza.jpg) | 1 | 2 355,90 | 0 |
+| [Тормозной комплект: диск, суппорт, шланг, цилиндр, бачок](https://ru.aliexpress.com/item/200CC-250CC-ATV-Quad-Foot-brake-Hydraulic-Caliper-Brake-Disk-Disc-Assy-200cc-250cc-ATV-Quad/32813148385.html?spm=a2g0s.9042311.0.0.274233edrPo7SP) | Тормозной диск устанавливается на вал задних колёс, суппорт крепиться в плоскости диска на раме, к цилиндру подводится привод педали | ![](.gitbook/assets/tormoza.jpg) | 1 | 2 355,90 | 1 |
+|  |  |  |  |  |  |
 
 ## Что нужно приобрести:
 
