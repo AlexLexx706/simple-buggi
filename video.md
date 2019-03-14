@@ -8,6 +8,7 @@
 * [подборка видео от одного индуса по электрификации машин](https://www.youtube.com/channel/UCrpbGiOxH_05q9Ec5Rj3zOA/videos)
 * [о подвеске автомобиля](https://www.youtube.com/watch?v=VdpZZ_50cvg&t=629s) 
 * [принцип работы асинхронного двигателя](https://www.youtube.com/watch?v=IhV0KBw481k)
+* [про типы двигателей](https://www.youtube.com/watch?time_continue=7&v=tjmou9dtxBg)
 
 
 
