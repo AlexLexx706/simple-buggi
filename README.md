@@ -245,6 +245,14 @@ description: Проект электрический автомобиль
       <td style="text-align:left">5420 &#x440;.</td>
     </tr>
     <tr>
+      <td style="text-align:left"><a href="https://vstroyka-solo.ru/moskva/goods/komplekt-koles-dlya-kultivatora-elitech-kb-503-506-0401-003000-508684?utm_source=yam&amp;utm_campaign=sadovaya-tehnika-1675&amp;utm_term=508684&amp;utm_medium=kultivatori-i-motobloki-1708&amp;utm_content=komplekt_koles_dlya_kultivatora&amp;from=yaMarket&amp;roistat=yamarket6_1030297_508684&amp;ymclid=15564643603370887012400022">&#x41A;&#x43E;&#x43B;&#x451;&#x441;&#x430; &#x437;&#x430;&#x434;&#x43D;&#x438;&#x435;</a>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left"><a href="https://samara.leroymerlin.ru/product/list-riflenyy-amg2-1-5h600h1200-mm-13322009/">&#x41B;&#x438;&#x441;&#x442; &#x440;&#x438;&#x444;&#x43B;&#x451;&#x43D;&#x44B;&#x439; &#x410;&#x41C;&#x433;2</a>
       </td>
       <td style="text-align:left">&#x41F;&#x43E;&#x43B; &#x432; &#x43C;&#x430;&#x448;&#x438;&#x43D;&#x435;</td>
