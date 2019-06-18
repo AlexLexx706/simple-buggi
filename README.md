@@ -156,6 +156,16 @@ description: Проект электрический автомобиль
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left"><a href="https://www.36volt.ru/akkumuljatory/po-proizvoditelyam/challenger/akkumuljator-challenger-as12-28/">&#x415;&#x449;&#x451; &#x43D;&#x435;&#x43F;&#x43B;&#x43E;&#x445;&#x438;&#x435; &#x430;&#x43A;&#x443;&#x43C;&#x44B; &#x43F;&#x43E; &#x446;&#x435;&#x43D;&#x435;</a>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <img src=".gitbook/assets/accum.jpg" alt/>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left"><a href="https://www.delta-battery.ru/catalog/start/?display=table&amp;set_filter=y&amp;MSHOP_SMART_FILTER_42_4196041389=Y&amp;MSHOP_SMART_FILTER_43_MIN=10">&#x442;&#x443;&#x442; &#x433;&#x435;&#x43B;&#x438;&#x435;&#x432;&#x44B;&#x435; &#x431;&#x430;&#x442;&#x430;&#x440;&#x435;&#x438;</a>
       </td>
       <td style="text-align:left"></td>
@@ -248,8 +258,10 @@ description: Проект электрический автомобиль
       <td style="text-align:left"><a href="https://vstroyka-solo.ru/moskva/goods/komplekt-koles-dlya-kultivatora-elitech-kb-503-506-0401-003000-508684?utm_source=yam&amp;utm_campaign=sadovaya-tehnika-1675&amp;utm_term=508684&amp;utm_medium=kultivatori-i-motobloki-1708&amp;utm_content=komplekt_koles_dlya_kultivatora&amp;from=yaMarket&amp;roistat=yamarket6_1030297_508684&amp;ymclid=15564643603370887012400022">&#x41A;&#x43E;&#x43B;&#x451;&#x441;&#x430; &#x437;&#x430;&#x434;&#x43D;&#x438;&#x435;</a>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <img src=".gitbook/assets/1797445.png" alt/>
+      </td>
+      <td style="text-align:left">1</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
