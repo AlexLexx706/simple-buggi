@@ -32,3 +32,7 @@
 3. [простой инструмент](http://fritzing.org/home/) для создания набросков электронных схем
 4. [Твёрдотельное моделирование online](https://www.onshape.com/)
 
+## **Интересные ссылки:**
+
+* \*\*\*\*[**Запсачти для картов**](https://www.pro-kart.ru/catalog/zapchasti_dlya_kartinga/privod_karta/)\*\*\*\*
+
