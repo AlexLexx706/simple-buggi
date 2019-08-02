@@ -374,6 +374,17 @@ description: Проект электрический автомобиль
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://www.pro-kart.ru/catalog/zapchasti_dlya_kartinga/perdnyaya_chast/672/">&#x41F;&#x43E;&#x432;&#x43E;&#x440;&#x43E;&#x442;&#x43D;&#x44B;&#x439; &#x43A;&#x443;&#x43B;&#x430;&#x43A;</a>
+      </td>
+      <td style="text-align:left">&#x41A;&#x440;&#x435;&#x43F;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x43F;&#x435;&#x440;&#x435;&#x434;&#x43D;&#x438;&#x445;
+        &#x43A;&#x43E;&#x43B;&#x451;&#x441;</td>
+      <td style="text-align:left">
+        <img src=".gitbook/assets/kulak.jpg" alt/>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>## Чертежи:
 
