@@ -362,6 +362,18 @@ description: Проект электрический автомобиль
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://www.vseinstrumenti.ru/rashodnie_materialy/sadovaya_tehnika/dlya_kultivatorov_i_motoblokov/vspashcka_zemli/udliniteli/tselina/tselina_stupitsa_kolesa_dlya_m_k_krot_tselina_404_406_011302/">&#x421;&#x442;&#x443;&#x43F;&#x438;&#x446;&#x430; &#x43D;&#x430; &#x432;&#x430;&#x43B; 25 </a>
+      </td>
+      <td style="text-align:left">&#x414;&#x43B;&#x44F; &#x43A;&#x440;&#x435;&#x43F;&#x43B;&#x435;&#x43D;&#x438;&#x44F;
+        &#x437;&#x432;&#x435;&#x437;&#x434;&#x44B; &#x438;&#x43B;&#x438; &#x442;&#x43E;&#x440;&#x43C;&#x43E;&#x437;&#x43D;&#x43E;&#x433;&#x43E;
+        &#x434;&#x438;&#x441;&#x43A;&#x430;</td>
+      <td style="text-align:left">
+        <img src=".gitbook/assets/stupica.png" alt/>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>## Чертежи:
 
