@@ -21,7 +21,7 @@ description: Проект электрический автомобиль
 
 Ревизия один, это жёсткая рама из уголков или труб, единая задняя ось на оба колеса\(дифференциал отсутствует\), передний полу оси крепятся к раме без подвески, поворотные рычаги соединены с рычагом рулевого вала через рычаги на шаровых опорах для устранения сильного люфта. Конструкция без подвески максимально простая. Конструкция рамы должна предусматривать комфортное размещение одного водителя и всех элементов силовой части \(мотор аккумуляторы\).
 
-## Список текущих покупок:
+## Закупленные компоненты:
 
 | Название/ссылка | Назначение | Картинка  | штук | ценник | в наличии |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -31,6 +31,8 @@ description: Проект электрический автомобиль
 | [Приводная звездочка T8F 64 зуба](https://www.aliexpress.com/snapshot/0.html?orderId=703650765399661) | Передаёт момент на вал колёс | ![](.gitbook/assets/gear_64.jpg) | 1 | 778,98 | 1 |
 | [Тормозной комплект: диск, суппорт, шланг, цилиндр, бачок](https://ru.aliexpress.com/item/200CC-250CC-ATV-Quad-Foot-brake-Hydraulic-Caliper-Brake-Disk-Disc-Assy-200cc-250cc-ATV-Quad/32813148385.html?spm=a2g0s.9042311.0.0.274233edrPo7SP) | Тормозной диск устанавливается на вал задних колёс, суппорт крепиться в плоскости диска на раме, к цилиндру подводится привод педали | ![](.gitbook/assets/tormoza.jpg) | 1 | 2 355,90 | 1Акку |
 | [Аккумуляторы](https://1-office.ru/catalog/108362/?utm_term=Akkumulyatornye_batarei_AKB&utm_content=&cm_id=1638993788_58099095330_314469112442_pla-293946777986_c_1o1_g_&utm_medium=cpc&utm_source=google&utm_campaign=ca_merchant_mimo|1638993788&utm_term=&utm_content=k50id|pla-293946777986|cid|1638993788|aid|314469112442|gid|58099095330|pos|1o1|src|g_|dvc|c|reg|9047029|rin||&k50id=58099095330|pla-293946777986&gclid=CjwKCAjwzJjrBRBvEiwA867byjpN43QDhdcSHe8hADVe6w30BKx4SAFHAVPKFt1z_tO9ab1B6_yDUxoC8soQAvD_BwE) | delta GEL 12-15 | ![](.gitbook/assets/delta-12-15.jpg)  | 5 | 12000 |  |
+| [Полоса металлическая 4 \* 40 \*3000](https://leroymerlin.ru/product/polosa-metallicheskaya-4h40x3000-mm-15790957/) |  | ![](.gitbook/assets/polosa-4-40-3000.jpg)  | 1 | 300 |  |
+| [Труба профильная 20\*40\*3000](https://leroymerlin.ru/product/truba-profilnaya-40h20h3000-mm-13376752/) |  | ![](.gitbook/assets/profil_20-40.jpg)  | 3 | 900 |  |
 
 ## Что нужно приобрести:
 
