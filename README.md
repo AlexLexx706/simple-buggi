@@ -148,12 +148,12 @@ description: Проект электрический автомобиль
         <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="https://econrj.ru/akkumuljatornie-batarei/akkumuljatornie-batarei-delta/akkumuljatornaja-batareja-delta-gel-12-20.html">&#x410;&#x43A;&#x43A;&#x443;&#x43C;&#x443;&#x43B;&#x44F;&#x442;&#x43E;&#x440;&#x43D;&#x430;&#x44F; &#x431;&#x430;&#x442;&#x430;&#x440;&#x435;&#x44F; 12 &#x412; 20 &#x410;&#x447;</a>
+      <td style="text-align:left"><a href="https://econrj.ru/akkumuljatornie-batarei/akkumuljatornie-batarei-delta/akkumuljatornaja-batareja-delta-gel-12-15.html">&#x410;&#x43A;&#x43A;&#x443;&#x43C;&#x443;&#x43B;&#x44F;&#x442;&#x43E;&#x440;&#x43D;&#x430;&#x44F; &#x431;&#x430;&#x442;&#x430;&#x440;&#x435;&#x44F; 12 &#x412; 20 &#x410;&#x447;</a>
       </td>
       <td style="text-align:left">&#x41E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x43E;&#x439; &#x438;&#x441;&#x442;&#x43E;&#x447;&#x43D;&#x438;&#x43A;
         &#x43F;&#x438;&#x442;&#x430;&#x43D;&#x438;&#x44F;</td>
       <td style="text-align:left">
-        <img src=".gitbook/assets/akkumulyator.jpg" alt/>
+        <img src=".gitbook/assets/gel_12_15_b-500x500-product_popup.jpg" alt/>
       </td>
       <td style="text-align:left">5</td>
       <td style="text-align:left"></td>
