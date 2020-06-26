@@ -26,8 +26,10 @@ description: Компаненты для замены электро приво�
 
 ##  Подбор цепной передачи:
 
-1. [цепь приводная ПР-12.7-1820-1 ](https://podolsk-privod.ru/catalog/cepi-privodnye/tsepi-privodnye)
+1. [цепь приводная ПР-12.7-1820-1](https://podolsk-privod.ru/catalog/cepi-privodnye/tsepi-privodnye), длинна 1.5 м
 2. [звёздочка на вал редуктора t=12,7 b=5,4 z=10](https://podolsk-privod.ru/catalog/zvezdochki/zvezdochki-dlya-cepey-proizvodstva-ooo-podolsk-privod)
-3. \*\*\*\*[Быстро разжемная втулка sati KLAB025](https://podolsk-privod.ru/sites/default/files/bistrozajimnaya_vtulka_0.pdf)
+3. \*\*\*\*[Быстро разжемная втулка sati KLAB025](https://podolsk-privod.ru/sites/default/files/bistrozajimnaya_vtulka_0.pdf), посадка вала 25 мм,  диаметр отверстия в звёздочке  50 мм.
 4. [Звёздочка на вал колёс под быстро разжемную втулку \(083-1/084-1 12,7 x 4,88 mm\) PS 07034](https://podolsk-privod.ru/sites/default/files/zvezdochki_pod_rastochku.pdf)
+
+
 
