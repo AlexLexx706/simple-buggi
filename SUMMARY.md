@@ -4,4 +4,5 @@
 * [Мысли об авто снегоуборщике](mysli.md)
 * [Интересное](interesnoe.md)
 * [Видео](video.md)
+* [Бензиновый привод](benzinovyi-privod.md)
 
