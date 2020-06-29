@@ -10,7 +10,8 @@ description: Компаненты для замены электро приво�
 4. \*\*\*\*[Узкий клиновой ремень SPA ](https://technobearing.ru/eshop1/product/remen-sati-spa800)
 5. \*\*\*\*[**Клиновые шкивы под зажимную втулку**](http://sati-spb.ru/catalog/klinovie_shkivi_lockdevice)\*\*\*\*
 6. [Зажимные комплекты](http://sati-spb.ru/catalog/zazhimnie_komplekti)
-
+7. [Вариатор сафари](http://motodom.su/variator-safari-v-sbore.html) передаточое отношение 1:3
+8. 
 Немного интересного видео:
 
 * [про ремни](https://www.youtube.com/watch?v=sot8ii_vDBc)
