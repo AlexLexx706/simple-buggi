@@ -11,7 +11,8 @@ description: Компаненты для замены электро приво�
 5. \*\*\*\*[**Клиновые шкивы под зажимную втулку**](http://sati-spb.ru/catalog/klinovie_shkivi_lockdevice)\*\*\*\*
 6. [Зажимные комплекты](http://sati-spb.ru/catalog/zazhimnie_komplekti)
 7. [Вариатор сафари](http://motodom.su/variator-safari-v-sbore.html) передаточое отношение 1:3
-8. 
+8. [Описание вариатора сафари](http://motosobaky.ru/publikacii/variator-safari-dlya-motobuksirovshhikov-pravila-obsluzhivaniya-i-ekspluatatsii/)
+
 Немного интересного видео:
 
 * [про ремни](https://www.youtube.com/watch?v=sot8ii_vDBc)
