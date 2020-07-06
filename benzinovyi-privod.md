@@ -32,7 +32,8 @@ description: Компаненты для замены электро приво�
 2. [звёздочка на вал редуктора t=12,7 b=5,4 z=10](https://podolsk-privod.ru/catalog/zvezdochki/zvezdochki-dlya-cepey-proizvodstva-ooo-podolsk-privod)
 3. \*\*\*\*[Быстро разжемная втулка sati KLAB025](https://podolsk-privod.ru/sites/default/files/bistrozajimnaya_vtulka_0.pdf), посадка вала 25 мм,  диаметр отверстия в звёздочке  50 мм.
 4. [Звёздочка на вал колёс под быстро разжемную втулку:](https://podolsk-privod.ru/sites/default/files/zvezdochki_pod_rastochku.pdf) [t=12,7 b=5,4 ](https://podolsk-privod.ru/catalog/zvezdochki/zvezdochki-dlya-cepey-proizvodstva-ooo-podolsk-privod)[ z=34 \(083-1/084-1 12,7 x 4,88 mm\) PS 07034](https://podolsk-privod.ru/sites/default/files/zvezdochki_pod_rastochku.pdf)
-5. Быстрозажимные втулки KLCC025: стоимость  830 р
+5. [Быстрозажимные втулки KLCC025: стоимость  830 р](https://podolsk-privod.ru/)
+6. [Проточить один шпоночный паз 200 р. ](https://podolsk-privod.ru/)
 
 
 
