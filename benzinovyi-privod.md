@@ -35,6 +35,7 @@ description: Компаненты для замены электро приво�
 5. [Быстрозажимные втулки KLCC025: стоимость  830 р](https://podolsk-privod.ru/)
 6. [Проточить один шпоночный паз 200 р. ](https://podolsk-privod.ru/)
 7. [габариты вариаторов сафари](http://motodom.su/osnovnye-tekhnicheskie-dannye-zapchastej.html)
+8. [посадка lifan-192F](http://motodom.su/dvigatel-lifan-192f.html)
 
 
 
