@@ -17,6 +17,7 @@ description: Компаненты для замены электро приво�
 
 * [про ремни](https://www.youtube.com/watch?v=sot8ii_vDBc)
 * [рассчёт клинового ремня](https://www.youtube.com/watch?v=Lb8ii6uodEk)
+* [рассчёт цепной передачи](http://nizrp.narod.ru/raschcepper.pdf)
 
 ## Параметры для подбора узлов бензо привода:
 
@@ -39,6 +40,16 @@ description: Компаненты для замены электро приво�
 
  
 
+![](.gitbook/assets/variator-shema.jpg)
+
+ 
+
+![](.gitbook/assets/variato_s_razmerami.jpg)
+
+ 
+
+![](.gitbook/assets/revers_s_razmerami.jpg)
+
 ![](.gitbook/assets/screenshot-from-2020-07-06-14-51-00.png)
 
 ![](.gitbook/assets/92434-8_1.jpg)
@@ -47,7 +58,11 @@ description: Компаненты для замены электро приво�
 
 ![](.gitbook/assets/screenshot-from-2020-07-06-15-01-10.png)
 
- 
+## Внешний вид двигателя с редуктором:
 
-![](.gitbook/assets/revers_s_razmerami.jpg)
+{% embed url="https://www.youtube.com/watch?v=swhP64GrJfw" %}
+
+
+
+ 
 
