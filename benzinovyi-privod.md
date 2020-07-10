@@ -13,9 +13,8 @@ description: Компаненты для замены электро приво�
 7. [Вариатор сафари](http://motodom.su/variator-safari-v-sbore.html) передаточое отношение 1:3
 8. [Описание вариатора сафари](http://motosobaky.ru/publikacii/variator-safari-dlya-motobuksirovshhikov-pravila-obsluzhivaniya-i-ekspluatatsii/)
 
-### Немного интересного видео:
+### Информация для рассчёта узлов автомобиля:
 
-* [про ремни](https://www.youtube.com/watch?v=sot8ii_vDBc)
 * [рассчёт клинового ремня](https://www.youtube.com/watch?v=Lb8ii6uodEk)
 * [рассчёт цепной передачи](http://nizrp.narod.ru/raschcepper.pdf)
 * [ТЯГОВЫЙ РАСЧЕТ АВТОМОБИЛЯ](http://e.lib.vlsu.ru/bitstream/123456789/7005/1/01699.pdf)
