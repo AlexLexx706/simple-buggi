@@ -40,6 +40,8 @@ description: Компаненты для замены электро приво�
 7. [габариты вариаторов сафари](http://motodom.su/osnovnye-tekhnicheskie-dannye-zapchastej.html)
 8. [посадка lifan-192F](http://motodom.su/dvigatel-lifan-192f.html)
 
+## Габариты и размеры некоторых узлов:
+
  
 
 ![](.gitbook/assets/variator-shema.jpg)
