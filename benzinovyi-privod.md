@@ -76,7 +76,7 @@ description: Компаненты для замены электро приво�
 | [Диск трансмиссии неподвижный](http://motodom.su/disk-transmissii-nepodvizhnyj-vedomyj.html) | 1 | 950 |
 | [Диск трансмиссии подвижный](http://motodom.su/disk-transmissii-podvizhnyj.html) | 1 | 950 |
 | [Полумуфта ведомая](http://motodom.su/polumufta-vedomogo-shkiva.html) | 1 | 660 |
-| [Вариатор Сафари на вал 25мм ](http://motodom.su/variator-safari-tsena.html) | 1 | 3950 |
+| [PreviousВидео](https://app.gitbook.com/@simple-buggi/s/project/video) | 1 | 3950 |
 | [Реверс редуктор шестеренчатого типа \(+ Z13, под цепь ИЖ\) ](http://shop.motodom.su/revers-reduktory/119-revers-reduktor-shesterenchatyj.html) | 1 | 14800 |
 | Пружина ведомого вариатора  | 1 | 120 |
 | Двигатель Engine Lifan 190FD \(15л/с, ручной и эл. запуск\) D25, кат.осв. 18А  | 1 | 24730 |
@@ -85,6 +85,12 @@ description: Компаненты для замены электро приво�
 | [ЦЕПЬ "ИЖ-ПЛАНЕТА" ПР-15, 875](http://motodom.su/tsep-izhevskaya.html) | 1 | 950 |
 | [Звёздочка ведущая z 13 иж с посадкой 25 мм](http://motodom.su/zvezdochka-vedushchaya-z-13-izh.html) | 1 | 760 |
 | [Усилинная цепь "ИЖ" \(DIP 520\)](http://motodom.su/usilennaya-tsep-izh-dip-520.html) | 1 | 2700 |
+
+## Чертежи силовой установки и технические моменты:
+
+* [Реверс редуктор](https://cad.onshape.com/documents/b21316542eaf4da69c60d175/w/06073950ddc738940ec0cbc6/e/4e540706f26acaefa303e9b4)
+* [Вариатор Сафари на вал 25мм](https://cad.onshape.com/documents/b21316542eaf4da69c60d175/w/06073950ddc738940ec0cbc6/e/5a8fceadc55ac71bed73c51a)
+* [Промежуточный редуктор](https://cad.onshape.com/documents/b21316542eaf4da69c60d175/w/06073950ddc738940ec0cbc6/e/dd4903b0372316712a77f2de) 
 
 
 
