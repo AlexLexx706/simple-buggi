@@ -68,6 +68,10 @@ description: Компаненты для замены электро приво�
 
 ![](.gitbook/assets/chain.png)
 
+## Размеры цепей ПР:
+
+![](.gitbook/assets/chain-2.png)
+
 ## Внешний вид двигателя с редуктором:
 
 {% embed url="https://www.youtube.com/watch?v=swhP64GrJfw" %}
