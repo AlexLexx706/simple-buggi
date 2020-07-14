@@ -115,8 +115,8 @@ description: Компаненты для замены электро приво�
 | Название | количество  | цена руб. |
 | :--- | :--- | :--- |
 | [Сьёмник цепи](https://aliexpress.ru/item/33027522250.html?spm=a2g0s.9042311.0.0.2eea33edEL5OkL&_ga=2.77933908.1740572431.1594367094-520047512.1591361107) | 1 | 1 326.88 |
-| Набор для развальцовки трубок | 1 | 2483.33 |
-| Набор для прокачки тормозов | 1 | 269.17 |
+| [Набор для развальцовки трубок](https://www.grantauto.ru/catalog/instrument/instrument_spetsialnyy/tormoznaya_sistema/razvaltsovka_tormoznyh_trubok_8_predmetov_JONNESWAY.html) | 1 | 2483.33 |
+| [Набор для прокачки тормозов](https://www.grantauto.ru/catalog/instrument/instrument_spetsialnyy/tormoznaya_sistema/prisposoblenie_dlya_prokachki_tormoznoy_sistemy_avtodelo_40077.html?_openstat=bWFya2V0LnlhbmRleC5ydTvQn9GA0LjRgdC_0L7RgdC-0LHQu9C10L3QuNC1INC00LvRjyDQv9GA0L7QutCw0YfQutC4INGC0L7RgNC80L7Qt9C90L7QuSDRgdC40YHRgtC10LzRiyDQkNCy0YLQvtCU0LXQu9C-IDQwMDc3OzQxSnR2RU13RUY5UlFHRzgxWVRCX0E7&ymclid=15947200382434840687200009) | 1 | 269.17 |
 | [ключ для прокачки тормоза](https://www.grantauto.ru/catalog/instrument/instrument_spetsialnyy/tormoznaya_sistema/klyuch_prokachki_tormozov_10h12_avtom_.html) | 1 | 138.33 |
 
 ## Чертежи силовой установки:
