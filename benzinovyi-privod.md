@@ -152,6 +152,12 @@ description: Компаненты для замены электро приво�
 
 ## Идеи для реализации передней оси:
 
+{% embed url="https://www.youtube.com/watch?v=C2fa7fMQSw8" %}
+
+{% embed url="https://www.youtube.com/watch?v=azphKQo8uDo&feature=youtu.be" %}
+
+
+
 
 
 ### [Рулевое управление ВАЗ 2106](http://car-exotic.com/vaz-cars/vaz-lada-2106-auto-repair-manual-7.html):
