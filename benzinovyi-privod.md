@@ -95,7 +95,7 @@ description: Компаненты для замены электро приво�
 
 ## Список покупок ДВС силовой части:
 
-| Название | Количество | Стоимость руб. |
+| Название | Количество | Цена руб. |
 | :--- | :--- | :--- |
 | [Диск трансмиссии неподвижный](http://motodom.su/disk-transmissii-nepodvizhnyj-vedomyj.html) | 1 | 950 |
 | [Диск трансмиссии подвижный](http://motodom.su/disk-transmissii-podvizhnyj.html) | 1 | 950 |
@@ -112,19 +112,24 @@ description: Компаненты для замены электро приво�
 
 ## Список купленых инструментов:
 
-| Название | количество  | цена руб. |
+| Название | Количество  | цена руб. |
 | :--- | :--- | :--- |
 | [Сьёмник цепи](https://aliexpress.ru/item/33027522250.html?spm=a2g0s.9042311.0.0.2eea33edEL5OkL&_ga=2.77933908.1740572431.1594367094-520047512.1591361107) | 1 | 1 326.88 |
 | [Набор для развальцовки трубок](https://www.grantauto.ru/catalog/instrument/instrument_spetsialnyy/tormoznaya_sistema/razvaltsovka_tormoznyh_trubok_8_predmetov_JONNESWAY.html) | 1 | 2483.33 |
 | [Набор для прокачки тормозов](https://www.grantauto.ru/catalog/instrument/instrument_spetsialnyy/tormoznaya_sistema/prisposoblenie_dlya_prokachki_tormoznoy_sistemy_avtodelo_40077.html?_openstat=bWFya2V0LnlhbmRleC5ydTvQn9GA0LjRgdC_0L7RgdC-0LHQu9C10L3QuNC1INC00LvRjyDQv9GA0L7QutCw0YfQutC4INGC0L7RgNC80L7Qt9C90L7QuSDRgdC40YHRgtC10LzRiyDQkNCy0YLQvtCU0LXQu9C-IDQwMDc3OzQxSnR2RU13RUY5UlFHRzgxWVRCX0E7&ymclid=15947200382434840687200009) | 1 | 269.17 |
 | [ключ для прокачки тормоза](https://www.grantauto.ru/catalog/instrument/instrument_spetsialnyy/tormoznaya_sistema/klyuch_prokachki_tormozov_10h12_avtom_.html) | 1 | 138.33 |
+|  Набор рожковых ключей | 1 | 700 |
+|  |  |  |
 
 ## Что может ещё понадобиться:
 
-| Название | цена |
+| Название | Цена руб. |
 | :--- | :--- |
 | [Подушка двигателя ваз 2121](https://www.avtoall.ru/podushka_vaz_2121_dvigatelya_v_upakovke_avtovaz-647793/) |  |
 | [звёздочка z = 40, 15.88 + расточка ](https://podolsk-privod.ru/) | 2405 + 600 |
+| Фонарь светодиодный | 800 |
+| Моторное масло 1л. для четерёх тактных двигателей: SAE 30W. | 600 за 2 л. |
+| Масло трансмиссионное 1л. | 200 |
 
 ## Чертежи силовой установки:
 
