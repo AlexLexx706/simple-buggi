@@ -74,6 +74,10 @@ description: Компаненты для замены электро приво�
 
 ![](.gitbook/assets/chain-2.png)
 
+ 
+
+![](.gitbook/assets/screenshot-from-2020-07-25-00-35-30.png)
+
 ## Внешний вид двигателя с редуктором:
 
 {% embed url="https://www.youtube.com/watch?v=swhP64GrJfw" %}
