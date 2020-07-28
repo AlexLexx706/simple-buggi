@@ -116,6 +116,8 @@ description: Компаненты для замены электро приво�
 | [ЦЕПЬ "ИЖ-ПЛАНЕТА" ПР-15, 875](http://motodom.su/tsep-izhevskaya.html) | 1 | 950 |
 | [Звёздочка ведущая z 13 иж с посадкой 25 мм](http://motodom.su/zvezdochka-vedushchaya-z-13-izh.html) | 1 | 760 |
 | [Усилинная цепь "ИЖ" \(DIP 520\)](http://motodom.su/usilennaya-tsep-izh-dip-520.html) | 1 | 2700 |
+| [Звёздочка цепная однорядная с подшипником 10В-1В13](https://podolsk-privod.ru/catalog/zvezdochki/zvezdochka-natyazhnaya-s-podshipnikom) | 2 | 1320 |
+| [Вал-втулочный фиксатор 1803038 Loctite 638 10 ml](https://podolsk-privod.ru/catalog/kley/loctite-638-vysokoprochnyy-universalnyy-val-vtulochnyy-fiksator) | 1 | 970 |
 
 ## Список купленых инструментов:
 
@@ -125,7 +127,7 @@ description: Компаненты для замены электро приво�
 | [Набор для развальцовки трубок](https://www.grantauto.ru/catalog/instrument/instrument_spetsialnyy/tormoznaya_sistema/razvaltsovka_tormoznyh_trubok_8_predmetov_JONNESWAY.html) | 1 | 2483.33 |
 | [Набор для прокачки тормозов](https://www.grantauto.ru/catalog/instrument/instrument_spetsialnyy/tormoznaya_sistema/prisposoblenie_dlya_prokachki_tormoznoy_sistemy_avtodelo_40077.html?_openstat=bWFya2V0LnlhbmRleC5ydTvQn9GA0LjRgdC_0L7RgdC-0LHQu9C10L3QuNC1INC00LvRjyDQv9GA0L7QutCw0YfQutC4INGC0L7RgNC80L7Qt9C90L7QuSDRgdC40YHRgtC10LzRiyDQkNCy0YLQvtCU0LXQu9C-IDQwMDc3OzQxSnR2RU13RUY5UlFHRzgxWVRCX0E7&ymclid=15947200382434840687200009) | 1 | 269.17 |
 | [ключ для прокачки тормоза](https://www.grantauto.ru/catalog/instrument/instrument_spetsialnyy/tormoznaya_sistema/klyuch_prokachki_tormozov_10h12_avtom_.html) | 1 | 138.33 |
-|  Набор рожковых ключей | 1 | 700 |
+| [ Набор рожковых ключей](https://www.220-volt.ru/catalog-623353/?ref=gl_merch_mg&utm_source=google&utm_medium=cpc&utm_campaign=mgcom-gl-src-shopping-ruchnoy_instrument-msk|10517893103&utm_term=&utm_content=k50id|pla-366126851957|cid|10517893103|aid|447599448859|gid|102828678694|pos||src|u_|dvc|c|reg|9047030|rin||&k50id=102828678694|pla-366126851957&gclid=CjwKCAjwmf_4BRABEiwAGhDfSViSLgkvw0gaP1FO2qDTOXsncAMmPf9TH9DjPU5x9KyI0qRDdPqdnhoCoOwQAvD_BwE) | 1 | 700 |
 |  |  |  |
 
 ## Что может ещё понадобиться:
@@ -134,7 +136,7 @@ description: Компаненты для замены электро приво�
 | :--- | :--- |
 | [Подушка двигателя ваз 2121](https://www.avtoall.ru/podushka_vaz_2121_dvigatelya_v_upakovke_avtovaz-647793/) |  |
 | [звёздочка z = 40, 15.88 + расточка ](https://podolsk-privod.ru/) | 2405 + 600 |
-| Фонарь светодиодный | 800 |
+| [Фонарь светодиодный](https://kolesatyt.ru/catalog/aksessuary/elektrooborudovanie/khodovye-ogni-i-fary/svetodiodnaya-fara-wl-827f-blizhniy-svet/?utm_source=yandexmarket&utm_medium=cpc&utm_campaign=mytishchi.kolesatyt.ru-aks&utm_term=9296324&_openstat=bWFya2V0LnlhbmRleC5ydTvQodCy0LXRgtC-0LTQuNC-0LTQvdCw0Y8g0YTQsNGA0LAgV0wtODI3RiAo0LHQu9C40LbQvdC40Lkg0YHQstC10YIpINCS0YvQvNC_0LXQuyAoNTE4Mik7a2JSQWVOSU5RTlROQ24wSnhXdUpIdzs&ymclid=15959242850176052493600006) | 800 |
 | Моторное масло 1л. для четерёх тактных двигателей: SAE 30W. | 600 за 2 л. |
 | Масло трансмиссионное 1л. | 200 |
 
