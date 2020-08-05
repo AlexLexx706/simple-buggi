@@ -389,8 +389,7 @@ description: Проект электрический автомобиль
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="https://leroymerlin.ru/product/pruzhina-dvernaya-rigel-ocinkovannaya-stal-13041442/">&#x41F;&#x440;&#x443;&#x436;&#x438;&#x43D;&#x430;</a>
-      </td>
+      <td style="text-align:left">&#x41F;&#x440;&#x443;&#x436;&#x438;&#x43D;&#x430;</td>
       <td style="text-align:left">&#x414;&#x43B;&#x44F; &#x43F;&#x435;&#x434;&#x430;&#x43B;&#x435;&#x439;</td>
       <td
       style="text-align:left">
