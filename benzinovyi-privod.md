@@ -191,7 +191,9 @@ description: Компаненты для замены электро приво�
 
 {% embed url="https://www.youtube.com/watch?v=paJ4eAf3wjA" %}
 
+Стеклопластик:
 
+{% embed url="https://www.youtube.com/watch?v=vpElSDrCvWw" %}
 
 
 
