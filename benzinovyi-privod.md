@@ -222,7 +222,9 @@ description: Компаненты для замены электро приво�
 
 {% embed url="https://www.youtube.com/watch?v=iEBx9TTPmD8" %}
 
-{% embed url="https://www.youtube.com/watch?v=L9g9HszaBbM" %}
+{% embed url="https://www.youtube.com/watch?v=MAinuf5I\_dw" %}
+
+{% embed url="https://www.youtube.com/watch?v=b4OeDkeLeP8" %}
 
 
 
