@@ -235,6 +235,10 @@ description: Компаненты для замены электро приво�
 
 {% embed url="https://www.youtube.com/watch?v=b4OeDkeLeP8" %}
 
+{% embed url="https://www.youtube.com/watch?v=UgKvDw1E60E" %}
+
+
+
 
 
 
