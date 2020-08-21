@@ -221,6 +221,12 @@ description: Компаненты для замены электро приво�
 * грунтовать, шпаклевать и окрашивать **акрилом или на базе эпоксидки**
 * использовать **экструзионный,** так как он имеет мелкозернистую структуру
 
+{% embed url="https://ydoma.info/samodelki/samodelki-ehlektronnye/samodelki-stanok-dlya-rezki-penoplasta.html" %}
+
+{% embed url="https://samelectrik.ru/raschet-nihroma.html" %}
+
+
+
 {% embed url="https://ru-smola.com/%D0%A1%D1%82%D0%B5%D0%BA%D0%BB%D0%BE%D1%82%D0%BA%D0%B0%D0%BD%D1%8C" %}
 
 {% embed url="https://autozam.ru/tiuning-mashini-i-dopolnitelnoe-oborudovanie/bamper-iz-steklovolokna-svoimi-rukami.html" %}
