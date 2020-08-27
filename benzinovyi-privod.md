@@ -191,7 +191,9 @@ description: Компаненты для замены электро приво�
 
 {% embed url="https://www.youtube.com/watch?v=paJ4eAf3wjA" %}
 
-## Ремонт станков![](.gitbook/assets/pekelis_tehnologiya_remonta_metallorezhushih_stankov.djvu) 
+{% embed url="https://bumper.guru/klassicheskie-modeli-vaz/stseplenie/regulirovka-stsepleniya-vaz-2107.html" %}
+
+
 
 ## Стеклопластик для создание кожухов цепи и вариатора:
 
